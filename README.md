@@ -1,6 +1,8 @@
+<!-- 
 # Backend Developer in Japan👋
-<!-- ### Just 20 years old -->
+### Just 20 years old
 ### Feel free to contact me anytime!👍
+-->
 #
 ![imajiji's GitHub stats](https://github-readme-stats.vercel.app/api?username=imajiji&show_icons=true&theme=vue-dark)
 
