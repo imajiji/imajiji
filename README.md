@@ -5,15 +5,17 @@
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=imajiji&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=imajiji&show_icons=true&theme=vue-dark&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imajiji" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imajiji&layout=compact&theme=vue-dark" />
 </a>
 
+<!-- 
 ![imajiji's GitHub stats](https://github-readme-stats.vercel.app/api?username=imajiji&show_icons=true&theme=vue-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imajiji&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=imajiji&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
