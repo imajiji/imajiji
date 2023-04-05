@@ -11,6 +11,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imajiji&layout=compact&theme=vue-dark" />
 </a>
 
+<br><br>
+
 <!-- 
 ![imajiji's GitHub stats](https://github-readme-stats.vercel.app/api?username=imajiji&show_icons=true&theme=vue-dark)
 
