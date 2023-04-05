@@ -37,7 +37,7 @@
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=mysql,laravel,docker,vscode,github" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,laravel,docker,vscode,github" />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
