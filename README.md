@@ -21,7 +21,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,mysql,github,vscode,docker,laravel,cakephp,discord,php,gutlab,jquery,aws" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,mysql,github,vscode,docker,laravel,discord,php,jquery,aws" /> <br /><br />
 
   ※Another skill and tools
   Laravel, Virtual Box and so on.
