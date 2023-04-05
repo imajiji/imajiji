@@ -8,10 +8,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=imajiji&show_icons=true&theme=vue-dark&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imajiji&layout=compact&theme=vue-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imajiji&layout=compact&theme=vue-dark" />
 </a>
 
-<br><br><br>
+<br><br>
 
 <!-- 
 ![imajiji's GitHub stats](https://github-readme-stats.vercel.app/api?username=imajiji&show_icons=true&theme=vue-dark)
